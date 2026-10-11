@@ -21,7 +21,7 @@
 | [10k Resistor](https://www.amazon.com/dp/B0B4JFPHTW) | provides 10,000 ohms to limit the flow of current | 1 | $4.97 | $4.97 | [Amazon](https://www.amazon.com/dp/B0B4JFPHTW) |
 | [PCB](https://www.jlcpcb.com/) | To electrically connect electrical compononent using conductive copper pathways | 1 | $2.00 | $2.00 | [JLCPCB](https://www.jlcpcb.com/) |
 | **Parts subtotal** | — | — | — | **$35.42** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$35.42** | — |
+| **Tax & shipping** | — | — | — | **$32.21** | — |
+| **Total** | — | — | — | **$67.63** | — |
 
-**$5.42 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$37.63 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
