@@ -21,7 +21,7 @@
 | [10k Resistor](https://www.amazon.com/dp/B0B4JFPHTW) | — | 1 | $0.00 | $0.00 | [Amazon](https://www.amazon.com/dp/B0B4JFPHTW) |
 | [PCB](https://www.jlcpcb.com/) | — | 1 | $0.00 | $0.00 | [JLCPCB](https://www.jlcpcb.com/) |
 | **Parts subtotal** | — | — | — | **$0.00** | — |
-| **Tax & shipping** | — | — | — | **$46.14** | — |
-| **Total** | — | — | — | **$46.14** | — |
+| **Tax & shipping** | — | — | — | **$0.00** | — |
+| **Total** | — | — | — | **$0.00** | — |
 
-**$16.14 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+$30.00 left of the tier's funding.
