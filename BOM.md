@@ -21,7 +21,7 @@
 | [10k Resistor](https://de.aliexpress.com/item/1005002705550504.html?spm=a2g0o.productlist.main.9.224f352740RvjY&algo_pvid=d7ab0b34-cd02-4445-b3e8-595908730b51&algo_exp_id=d7ab0b34-cd02-4445-b3e8-595908730b51-8&pdp_ext_f=%7B%22order%22%3A%225331%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21EUR%211.59%211.59%21%21%211.74%211.74%21%400b88ad2b17917450298504521e0f1d%2112000021795176620%21sea%21DE%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3A2f09e39f%3Bm03_new_user%3A-29895&curPageLogUid=pudDDZgqa3jp&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005002705550504%7C_p_origin_prod%3A) | provides 10,000 ohms to limit flow of current | 1 | $1.59 | $1.59 | [Aliexpress](https://de.aliexpress.com/item/1005002705550504.html?spm=a2g0o.productlist.main.9.224f352740RvjY&algo_pvid=d7ab0b34-cd02-4445-b3e8-595908730b51&algo_exp_id=d7ab0b34-cd02-4445-b3e8-595908730b51-8&pdp_ext_f=%7B%22order%22%3A%225331%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21EUR%211.59%211.59%21%21%211.74%211.74%21%400b88ad2b17917450298504521e0f1d%2112000021795176620%21sea%21DE%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3A2f09e39f%3Bm03_new_user%3A-29895&curPageLogUid=pudDDZgqa3jp&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005002705550504%7C_p_origin_prod%3A) |
 | [PCB](https://www.jlcpcb.com/) | supports and connects electronic components using conductive copper pathways | 1 | $2.00 | $2.00 | [JLCPCB](https://www.jlcpcb.com/) |
 | **Parts subtotal** | — | — | — | **$24.76** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$24.76** | — |
+| **Tax & shipping** | — | — | — | **$4.48** | — |
+| **Total** | — | — | — | **$29.24** | — |
 
-$5.24 left of the tier's funding.
+$0.76 left of the tier's funding.
